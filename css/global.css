@@ -102,7 +102,7 @@ h1 {
 
 .stats-links {
     color: #4b5c66;
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     padding: 15px 0px 10px 0px;
     border-bottom: 1px solid #e1e6e9;
     margin-bottom: 20px;
@@ -219,3 +219,15 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
 
 
 
+/*.social img {
+    display: block
+  }
+@media (max-width: 650px) {
+    .social img {
+        display: none
+    }
+}*/
+
+#espace {
+    font-size: 0.8rem;
+}
